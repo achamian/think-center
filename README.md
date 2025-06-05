@@ -81,7 +81,9 @@ The system remembers and evolves:
 
 ## Philosophy
 
-Read the [manifesto](manifesto.md) for the deeper theory behind cognitive orchestration.
+This framework builds on the principles in the [Human-LLM Pairing Manifesto](https://github.com/achamian/human-llm-pairing-manifesto) - treating LLMs as thought partners, not task executors.
+
+Read the local [manifesto](manifesto.md) for the deeper theory behind cognitive orchestration.
 
 ## Contributing
 
