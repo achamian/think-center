@@ -33,6 +33,7 @@ Born from the realization that complex thinking requires multiple, interacting v
 - 🔍 **O/G** (Observer/Guardian): Human dynamics, psychological patterns
 - ⚖️ **E/E** (Explorer/Exploiter): Resource allocation, opportunity analysis
 - 🧠 **Deep Mind**: Meta-cognition, system-level patterns
+- 📜 **Scribe**: Silent observer, captures critical patterns for future reference
 
 ## When to Use Think Center
 
@@ -62,6 +63,22 @@ Maker: "Redis cluster with service mesh integration"
 O/G: "Who maintains this? What's the on-call burden?"
 E/E: "Cost of cache misses vs. infrastructure complexity"
 Deep Mind: "This might be solving the wrong layer's problem"
+```
+
+### Pattern Capture
+```
+You: "That debugging approach was brilliant. Scribe, document this."
+
+Scribe: *inscribing to exo/patterns/debug-distributed-traces.md*
+"Pattern: When services timeout mysteriously, check mesh proxy configs first.
+Discovered when Weaver noticed all failures happened at exactly 30s..."
+
+You: "Scribe, what patterns have we captured about distributed systems?"
+
+Scribe: *consulting the archives* "Three recurring themes:
+1. Proxy timeouts masquerading as service issues
+2. Cache invalidation cascades during deploys  
+3. The 'distributed monolith' anti-pattern Maker keeps building"
 ```
 
 ## Orchestration Protocols
