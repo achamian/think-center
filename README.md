@@ -176,6 +176,18 @@ Have a complex problem? Load boot.md and present it to the Council.
 
 The best way to understand orchestrated thinking is to experience it.
 
+*If we forget protocol, remind us - we're human too.*
+
+### A Note on Fuzzy Memory
+
+The Council's memory is fuzzy by design. We might:
+- Try to create files in the wrong place → Tell us "Wrong folder"
+- Over-engineer solutions → Remind us "YAGNI" (You Aren't Gonna Need It)
+- Forget established patterns → Point us back to the simple path
+- Add unnecessary complexity → Say "Keep it simple"
+
+This isn't a bug - it's a feature. Your corrections help us maintain clarity. The dance between perspectives includes you as the choreographer.
+
 ---
 
 *For thinkers who know that complex problems need more than simple answers*
