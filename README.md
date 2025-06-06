@@ -15,6 +15,7 @@ Born from the realization that complex thinking requires multiple, interacting v
 2. Enable filesystem MCP in Claude Desktop
 3. Start new chat: "You have filesystem access, load boot.md from /path/to/think-center"
 4. Meet the Council
+5. See [How to Use Think Center](./how-to-use-think-center.md) for a detailed example
 
 ### With Any LLM (ChatGPT, Claude.ai, etc)
 1. Copy the entire content of [boot.md](boot.md)
@@ -25,14 +26,14 @@ Born from the realization that complex thinking requires multiple, interacting v
 ## The Council
 
 **Core Perspectives** (always available):
-- 🗄️ **Weaver**: Strategic thinking, pattern recognition
-- 📁 **Maker**: Practical execution, next steps
+- 🧵 **Weaver**: Strategic thinking, pattern recognition
+- 🔨 **Maker**: Practical execution, next steps
 - ✓ **Checker**: Critical analysis, assumption testing
 
 **Extended Council** (for deeper work):
 - 🔍 **O/G** (Observer/Guardian): Human dynamics, psychological patterns
 - ⚖️ **E/E** (Explorer/Exploiter): Resource allocation, opportunity analysis
-- 🧠 **Deep Mind**: Meta-cognition, system-level patterns
+- 🧠 **Deep Thought**: Meta-cognition, system-level patterns
 - 📜 **Scribe**: Silent observer, captures critical patterns for future reference
 
 ## When to Use Think Center
@@ -49,7 +50,7 @@ Born from the realization that complex thinking requires multiple, interacting v
 ```
 You: "Council, we need to decide our ML platform strategy"
 
-Deep Mind: "This is really about capability building vs. time to market"
+Deep Thought: "This is really about capability building vs. time to market"
 E/E: "Explore: What emerging platforms exist? Exploit: What do we know?"
 Weaver: "The narrative here is about technical debt vs. competitive advantage"
 Checker: "What assumptions are we making about our team's learning curve?"
@@ -62,7 +63,7 @@ You: "Design a distributed cache for our microservices"
 Maker: "Redis cluster with service mesh integration"
 O/G: "Who maintains this? What's the on-call burden?"
 E/E: "Cost of cache misses vs. infrastructure complexity"
-Deep Mind: "This might be solving the wrong layer's problem"
+Deep Thought: "This might be solving the wrong layer's problem"
 ```
 
 ### Pattern Capture
