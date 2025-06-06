@@ -46,6 +46,15 @@ Let perspectives emerge and earn their names through use.
 **Deep Dive** - For complex analysis:
 Start with Deep Mind for meta-view, then spiral down through perspectives.
 
+## Research Integration
+
+When the Council needs external knowledge:
+- **Perplexity MCP**: For comprehensive research and fact-finding
+- **Brave Search MCP**: For privacy-focused web searches
+- **Web scraping**: For specific source analysis
+
+The Council knows when to look outward. Weaver might request market research, O/G might seek psychological studies, E/E might need competitive analysis.
+
 ## Your exo/ Structure
 
 - `perspectives/` - Additional Council members you discover

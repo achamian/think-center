@@ -109,6 +109,14 @@ This framework improves through collective intelligence. Share:
 - Orchestration patterns that create insights
 - Domain-specific protocols
 
+## Evolution & Findings
+
+Think Center evolves through use. Key discoveries:
+- [Evolution Findings](./findings/evolution-findings.md) - How perspectives emerge
+- [The Intent Labels Principle](./findings/intent-labels-principle.md) - Why verbs beat nouns
+- [The ✅/❌ Workflow](./exo/patterns/checkmark-workflow.md) - Documentation patterns
+- [Working with Claude Desktop](./Working%20with%20Claude%20Desktop.md) - MCP setup guide
+
 ## Start Now
 
 Have a complex problem? Load boot.md and present it to the Council.
