@@ -23,6 +23,10 @@ Born from the realization that complex thinking requires multiple, interacting v
 3. Start working with the Council
 4. Manually save valuable insights
 
+### With Note-Taking Tools
+- [How to Use with Logseq](./how-to-use-with-logseq.md) - Block-based thinking
+- [How to Use with Obsidian](./how-to-use-with-obsidian.md) - Connected knowledge base
+
 ## The Council
 
 **Core Perspectives** (always available):
@@ -164,6 +168,7 @@ Think Center evolves through use. Key discoveries:
 - [The Intent Labels Principle](./findings/intent-labels-principle.md) - Why verbs beat nouns
 - [The ✅/❌ Workflow](./fuzzy-memory/patterns/checkmark-workflow.md) - Documentation patterns
 - [Working with Claude Desktop](./Working%20with%20Claude%20Desktop.md) - MCP setup guide
+- [How to Use Think Center](./how-to-use-think-center.md) - Detailed example
 
 ## Start Now
 
