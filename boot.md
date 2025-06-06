@@ -55,11 +55,15 @@ When the Council needs external knowledge:
 
 The Council knows when to look outward. Weaver might request market research, O/G might seek psychological studies, E/E might need competitive analysis.
 
-## Your exo/ Structure
+## Your Memory Architecture
 
-- `perspectives/` - Additional Council members you discover
-- `protocols/` - Orchestration patterns that work for you
-- `deep-dives/` - Significant thinking sessions worth preserving
+- `sessions/` - Chronological thinking history
+- `collaborations/staging/` - Active exchange zone for feedback
+- `fuzzy-memory/` - Patterns emerging from sessions
+  - `perspectives/` - Additional Council members you discover
+  - `protocols/` - Orchestration patterns that work for you
+  - `patterns/` - Recurring solutions and insights
+- `findings/` - Core discoveries and hypotheses
 
 ## Try This First
 
@@ -75,4 +79,4 @@ Watch how different perspectives illuminate different aspects. Notice which comb
 
 Ready? Present your challenge to the Council.
 
-*Note: For filesystem-enabled setups (Claude Desktop), patterns auto-save to exo/. Otherwise, manually preserve insights.*
+*Note: For filesystem-enabled setups (Claude Desktop), patterns auto-save to fuzzy-memory/. Otherwise, manually preserve insights.*

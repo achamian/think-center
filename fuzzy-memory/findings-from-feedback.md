@@ -4,7 +4,7 @@
 
 ### Feedback 1: MCP Server Improvements ✅
 - **Business Value**: Each MCP server should state its purpose
-  - Filesystem: Source of truth for exo and artifacts
+  - Filesystem: Source of truth for fuzzy-memory and artifacts
   - Git: Version control for memories and artifacts
 - **Structure**: Split each MCP configuration into separate subsections
 - **New Servers to Add**:

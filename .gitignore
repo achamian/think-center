@@ -1,0 +1,32 @@
+# Think Center .gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Staging area - keep structure but not contents
+collaborations/staging/*
+!collaborations/staging/README.md
+!collaborations/staging/example-with-feedback.md
+
+# Session drafts
+sessions/*.draft.md
+
+# Local experiments
+experiments/
+scratch/
+
+# Personal notes that shouldn't be shared
+personal/
+private/

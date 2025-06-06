@@ -69,7 +69,7 @@ Deep Mind: "This might be solving the wrong layer's problem"
 ```
 You: "That debugging approach was brilliant. Scribe, document this."
 
-Scribe: *inscribing to exo/patterns/debug-distributed-traces.md*
+Scribe: *inscribing to fuzzy-memory/patterns/debug-distributed-traces.md*
 "Pattern: When services timeout mysteriously, check mesh proxy configs first.
 Discovered when Weaver noticed all failures happened at exactly 30s..."
 
@@ -89,12 +89,59 @@ Scribe: *consulting the archives* "Three recurring themes:
 
 **Deep Dive**: Begin with meta-view, spiral into specifics
 
-## Your exo/ Evolution
+## Your fuzzy-memory/ Evolution
 
 The system remembers and evolves:
 - Custom perspectives for your domain
 - Protocols that consistently deliver insights  
 - Deep dives worth revisiting
+
+## Directory Structure & Interaction Patterns
+
+### Core Structure
+```
+think-center/
+├── sessions/              # Your thinking history (chronological logs)
+├── collaborations/        # Multi-party work and exchanges
+│   ├── staging/          # Active exchange zone for feedback
+│   ├── feedback-cycles/  # Iterative refinement sessions
+│   ├── pair-thinking/    # Two perspectives working together
+│   └── council-meetings/ # Full orchestration sessions
+├── fuzzy-memory/         # Patterns emerging from sessions
+│   ├── patterns/         # Discovered thinking patterns
+│   ├── perspectives/     # Custom perspectives that emerged
+│   ├── protocols/        # Orchestration methods that work
+│   └── findings/         # Consolidated insights
+├── findings/             # Core discoveries and hypotheses
+└── [core files]          # boot.md, manifesto.md, etc.
+```
+
+### Interaction Patterns
+
+#### The Staging Protocol
+For exchanging documents with feedback:
+```
+1. Drop file in collaborations/staging/ with embedded feedback
+2. Claude processes and creates revision
+3. Review and iterate as needed
+4. Move final version to appropriate location
+5. Clear staging for next use
+```
+
+#### Session Logging
+Capture your thinking journey:
+```
+1. Start session: "Scribe, new session on [topic]"
+2. Work with perspectives
+3. "Scribe, capture key insights"
+4. Session auto-saved to sessions/YYYY-MM-DD-topic.md
+```
+
+#### Pattern Evolution
+From fuzzy to crystallized:
+```
+Sessions → Patterns noticed → Fuzzy-memory → Core findings
+```
 
 ## Philosophy
 
@@ -114,7 +161,7 @@ This framework improves through collective intelligence. Share:
 Think Center evolves through use. Key discoveries:
 - [Evolution Findings](./findings/evolution-findings.md) - How perspectives emerge
 - [The Intent Labels Principle](./findings/intent-labels-principle.md) - Why verbs beat nouns
-- [The ✅/❌ Workflow](./exo/patterns/checkmark-workflow.md) - Documentation patterns
+- [The ✅/❌ Workflow](./fuzzy-memory/patterns/checkmark-workflow.md) - Documentation patterns
 - [Working with Claude Desktop](./Working%20with%20Claude%20Desktop.md) - MCP setup guide
 
 ## Start Now

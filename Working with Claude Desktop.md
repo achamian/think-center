@@ -16,7 +16,7 @@ MCP allows Claude to interact with external tools and systems through a standard
 2. **MCP Server Configurations**
 
    ### Filesystem Server
-   **Purpose**: Source of truth for exo and artifacts - enables Claude to read/write your project files
+   **Purpose**: Source of truth for fuzzy-memory and artifacts - enables Claude to read/write your project files
    ```json
    {
      "filesystem": {
@@ -106,7 +106,7 @@ MCP allows Claude to interact with external tools and systems through a standard
    }
    ```
 3. **Key MCP Servers**
-   - **filesystem**: Source of truth for exo and artifacts - Read/write files, navigate directories
+   - **filesystem**: Source of truth for fuzzy-memory and artifacts - Read/write files, navigate directories
    - **git**: Version control for memories and artifacts - Track changes and collaborate
    - **sqlite**: Database operations for persistent knowledge graphs
    - **web**: Web scraping and fetching for research integration

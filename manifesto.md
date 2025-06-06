@@ -52,7 +52,7 @@ Each perspective is a way of seeing, not a fixed role:
 - **Deep Dive**: Recursive depth exploration
 - **Council**: Full orchestration for maximum insight
 
-### The exo/ as Living Memory
+### The fuzzy-memory/ as Living Memory
 Your external cognition folder becomes:
 - A repository of proven patterns
 - An evolution of custom perspectives
