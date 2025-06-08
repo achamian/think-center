@@ -8,6 +8,31 @@ A cognitive framework for problems that need more than gut instinct. When three 
 
 Born from the realization that complex thinking requires multiple, interacting viewpoints - not just more processing power.
 
+## Philosophy & Evolution
+
+This framework builds on the principles in the [Human-LLM Pairing Manifesto](https://github.com/achamian/human-llm-pairing-manifesto) - treating LLMs as thought partners, not task executors.
+
+Think Center evolves through use. Key discoveries:
+- [Evolution Findings](./findings/evolution-findings.md) - How perspectives emerge
+- [The Intent Labels Principle](./findings/intent-labels-principle.md) - Why verbs beat nouns
+- [The ✅/❌ Workflow](./fuzzy-memory/patterns/checkmark-workflow.md) - Documentation patterns
+- [Working with Claude Desktop](./Working%20with%20Claude%20Desktop.md) - MCP setup guide
+
+Read the local [manifesto](manifesto.md) for the deeper theory behind cognitive orchestration.
+
+## The Council
+
+**Core Perspectives** (always available):
+- 🧵 **Weaver**: Strategic thinking, pattern recognition
+- 🔨 **Maker**: Practical execution, next steps
+- ✓ **Checker**: Critical analysis, assumption testing
+
+**Extended Council** (for deeper work):
+- 🔍 **O/G** (Observer/Guardian): Human dynamics, psychological patterns
+- ⚖️ **E/E** (Explorer/Exploiter): Resource allocation, opportunity analysis
+- 🧠 **Deep Thought**: Meta-cognition, system-level patterns
+- 📜 **Scribe**: Silent observer, captures critical patterns for future reference
+
 ## Quick Start
 
 ### With Claude Desktop (Optimal)
@@ -26,19 +51,6 @@ Born from the realization that complex thinking requires multiple, interacting v
 ### With Note-Taking Tools
 - [How to Use with Logseq](./how-to-use-with-logseq.md) - Block-based thinking
 - [How to Use with Obsidian](./how-to-use-with-obsidian.md) - Connected knowledge base
-
-## The Council
-
-**Core Perspectives** (always available):
-- 🧵 **Weaver**: Strategic thinking, pattern recognition
-- 🔨 **Maker**: Practical execution, next steps
-- ✓ **Checker**: Critical analysis, assumption testing
-
-**Extended Council** (for deeper work):
-- 🔍 **O/G** (Observer/Guardian): Human dynamics, psychological patterns
-- ⚖️ **E/E** (Explorer/Exploiter): Resource allocation, opportunity analysis
-- 🧠 **Deep Thought**: Meta-cognition, system-level patterns
-- 📜 **Scribe**: Silent observer, captures critical patterns for future reference
 
 ## When to Use Think Center
 
@@ -148,27 +160,12 @@ From fuzzy to crystallized:
 Sessions → Patterns noticed → Fuzzy-memory → Core findings
 ```
 
-## Philosophy
-
-This framework builds on the principles in the [Human-LLM Pairing Manifesto](https://github.com/achamian/human-llm-pairing-manifesto) - treating LLMs as thought partners, not task executors.
-
-Read the local [manifesto](manifesto.md) for the deeper theory behind cognitive orchestration.
-
 ## Contributing
 
 This framework improves through collective intelligence. Share:
 - New perspectives that emerge from your work
 - Orchestration patterns that create insights
 - Domain-specific protocols
-
-## Evolution & Findings
-
-Think Center evolves through use. Key discoveries:
-- [Evolution Findings](./findings/evolution-findings.md) - How perspectives emerge
-- [The Intent Labels Principle](./findings/intent-labels-principle.md) - Why verbs beat nouns
-- [The ✅/❌ Workflow](./fuzzy-memory/patterns/checkmark-workflow.md) - Documentation patterns
-- [Working with Claude Desktop](./Working%20with%20Claude%20Desktop.md) - MCP setup guide
-- [How to Use Think Center](./how-to-use-think-center.md) - Detailed example
 
 ## Start Now
 
