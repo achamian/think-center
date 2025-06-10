@@ -20,31 +20,31 @@ MCP allows Claude to interact with external tools and systems through a standard
    ```json
    {
      "filesystem": {
-       "command": "npx",
-       "args": ["@anthropic/mcp-server-filesystem"],
-       "config": {
-         "directories": [
-           "/Users/yourname/dev/think-center",
-           "/Users/yourname/dev/your-project"
-         ]
-       }
-     }
+        "command": "npx",
+        "args": [
+          "-y",
+          "@modelcontextprotocol/server-filesystem",
+          "/Users/yourname/dev/think-center"
+        ]
+      }
    }
    ```
 
    ### Git Server
    **Purpose**: Version control for memories and artifacts - track evolution of thinking
+
+   `uvx` is installed as part of the uv Python package manager. [Install uv](https://docs.astral.sh/uv/#installation)   
+
    ```json
    {
      "git": {
-       "command": "npx",
-       "args": ["@anthropic/mcp-server-git"],
-       "config": {
-         "repositories": [
-           "/Users/yourname/dev/think-center"
-         ]
-       }
-     }
+      "command": "uvx",
+      "args": [
+        "mcp-server-git",
+        "--repository",
+        "/Users/yourname/dev/think-center"
+      ]
+    }
    }
    ```
 
@@ -96,7 +96,7 @@ MCP allows Claude to interact with external tools and systems through a standard
    ### Complete Configuration Example
    ```json
    {
-     "servers": {
+     "mcpServers": {
        "filesystem": { ... },
        "git": { ... },
        "perplexity": { ... },
@@ -105,6 +105,28 @@ MCP allows Claude to interact with external tools and systems through a standard
      }
    }
    ```
+   
+   ### Troubleshooting
+   If the [logs from Claude Desktop](https://modelcontextprotocol.io/quickstart/user#getting-logs-from-claude-for-desktop) 
+   points to npx or uvx missing, or if the MCP servers prematurely exiting, then try providing the full shell environment 
+   for the tools. For example, to get `npx` to work for `filesystem`:
+
+   ```json
+   {
+    "filesystem": {
+        "command": "/Users/yourname/dev/fileserver-mcp.sh",
+      }
+   } 
+   ```
+
+   ```sh
+   #!/usr/bin/env bash
+   # fileserver-mcp.sh
+   npx -y @modelcontextprotocol/server-filesystem /Users/yourname/dev/think-center 
+   ```
+   
+   You may not need a shell script for `uvx`; providing the full path to the binary in the "command" field should work. 
+
 3. **Key MCP Servers**
    - **filesystem**: Source of truth for fuzzy-memory and artifacts - Read/write files, navigate directories
    - **git**: Version control for memories and artifacts - Track changes and collaborate
