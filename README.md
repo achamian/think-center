@@ -32,8 +32,8 @@ E/E and Checker, how do we navigate this?
 
 **For Thinkers:**
 ```
-"Deep Thought, I want to explore what role humor plays in RLHF?
-Context: We discussed the impact of safe environment for development of LLM personas
+"Deep Thought, I want to explore what role situational humor plays in RLHF while developing duality pairs - "Weaver, see what Maker did :)"? 
+Context: We discussed the impact of safe environment for development of LLM personas.
 Council, any thoughts before we proceed?"
 ```
 
