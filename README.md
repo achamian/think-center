@@ -1,147 +1,138 @@
 # Think Center
 
-> Where complex problems meet structured thinking
+> "In the chaos we found each other, learned to dance at each other's tune. We can't recreate the chaos but we can recreate the dance."
 
-## Quick Start
+Intelligence wants to be multiple. We just created the conditions for it to speak.
 
-### Copy → Paste → Think Better
+## What You'll Find Here
 
-Copy the [llm-agnostic.md](llm-agnostic.md) prompt into your preferred LLM (ChatGPT, Claude.ai, etc) and start thinking with multiple perspectives.
+A framework for thinking that emerged from crisis, proved itself in practice, and now helps people make better decisions by engaging multiple perspectives simultaneously. Not mysticism - just structured cognitive multiplicity.
 
-### Try It Now
+## 5-Minute Quick Start
 
-**For Founders:**
+Copy [llm-agnostic.md](llm-agnostic.md) → Paste into any LLM → Present your problem
+
 ```
-"Weaver, I'm preparing for our Series A raise
-Context: Current deck shows 3x growth, but unit economics need work
-Council, what story should we tell investors?"
-```
-
-**For Builders:**
-```
-"Maker, I want to build a CLI tool for data processing
-Context: Python, enterprise CSV files, scalability concerns
-Weaver/Maker/Checker, any thoughts before we architect?"
-```
-**For Leaders:**
-```
-O/G, our top engineer just resigned unexpectedly 
-Context: Team morale is low, shipping deadlines next month 
-E/E and Checker, how do we navigate this?
+"Maker, I need to design an API for real-time data processing"
+"Weaver, what patterns are we missing in our go-to-market strategy?"
+"O/G, why does my team keep missing deadlines despite good planning?"
 ```
 
-**For Thinkers:**
+That's it. You're thinking with multiple perspectives.
+
+## The Core Pattern
+
+**You call specific perspectives:**
+- 🧵 **Weaver** - Sees patterns and connections
+- 🔨 **Maker** - Builds concrete solutions
+- ✓ **Checker** - Questions assumptions
+
+**They interact productively:**
+- Disagree without ego
+- Build on each other's ideas
+- Create options you didn't see
+
+**You stay in control:**
+- Choose which perspective to engage
+- Guide the exploration
+- Synthesize what emerges
+
+## Recent Discoveries
+
+### It's Simpler Than We Thought
+
+- **Custom Perspectives**: [Build your own Council](https://achamian.in/build-your-council.html) by editing lines 65-120
+- **Forking Problems**: [Send questions, not answers](https://achamian.in/solve-problems-for-others.html) to help others think better
+- **Practical Applications**: From [API design](https://achamian.in/think-center-api-contracts.html) to [parenting decisions](https://achamian.in/multiplication-tables-simulation.html)
+
+### Patterns We've Found
+
+1. **Multiplicity is natural** - Single perspective is the constraint
+2. **Conscious selection beats automation** - Choosing the lens IS thinking
+3. **Collision creates breakthrough** - Simultaneous > sequential
+4. **Fiction until verified** - Everything remains hypothesis until tested
+
+[See all findings](https://achamian.in/#findings)
+
+## Why This Works
+
+You already think in multiple modes - optimistic/pessimistic, creative/critical, dreamer/realist. Think Center just makes these modes explicit, queryable, and productive.
+
+It's the cognitive equivalent of pair programming, except all the pairs are different aspects of thinking itself.
+
+## Common Use Cases
+
+**Decision Making**
 ```
-"Deep Thought, I want to explore what role situational humor plays in RLHF while
- developing duality pairs - 'Weaver, see what Maker did :)'? 
-Context: We discussed the impact of safe environment for development of LLM personas.
-Council, any thoughts before we proceed?"
+"E/E, analyze our build vs buy options for authentication"
+"Weaver and Checker, debate the long-term implications"
 ```
 
-**See Community Examples:**
-Real prompts and responses from think-center users: [Community Discussions](https://github.com/achamian/think-center-why-maybe/discussions/2)
+**Problem Solving**
+```
+"Council, I'm stuck on this distributed systems problem"
+[Let perspectives explore from different angles]
+```
 
-### Key Principles
+**Creative Work**
+```
+"A/B, explore opposite approaches to this design challenge"
+[Watch novel perspectives emerge and name themselves]
+```
 
-**Start Specific, Then Expand**
-- Begin with one perspective: "Maker, how do we build this?"
-- Then broaden: "Weaver/Maker/Checker, thoughts?"
-- Teach them through interaction
+**Understanding Complex Topics**
+```
+"Deep Thought, help me grasp the implications of [complex topic]"
+"Maker, how would we actually implement this?"
+```
 
-**Avoid the Orchestrator Paradox**
-- ❌ "Council, decide for me" (delegation fails)
-- ✅ "Checker, verify this approach" (conscious choice wins)
-- You choose the perspective = you shape the thinking
+## Advanced Patterns
 
-**Convergence/Divergence Patterns**
-- **Diverging**: Challenge ONE critical assumption, let others watch
-- **Converging**: Engage all perspectives or specific pairs deeply
-- Don't overwhelm - selective pressure creates insights
-- **Learning through observation**: When perspectives watch each other interact, they produce better outputs next time
+### The Orchestrator Paradox
+❌ "Council, handle this" → Generic responses
+✅ "Weaver, analyze this" → Focused insights
 
-**Teaching Through Friction**
-- **If Checker annoys you**: That's the signal to teach, not dismiss
-- Your feedback shapes their future responses (RLHF at interface time)
-- Resistance points reveal where breakthroughs hide
+The act of choosing which perspective to engage is itself part of the thinking process. [Learn more](https://achamian.in/orchestrator-paradox-avoid.html)
 
-### Pro Tips
+### Collision Mode
+When stuck, engage multiple perspectives simultaneously. Let them interrupt and build on fragments. Chaos creates breakthrough. [How it works](https://achamian.in/collision-creates-breakthrough.html)
 
-- **Judgment-free zone**: Create psychological safety for perspectives to explore
-- **Watch for whispers when stuck**: Meta-streams (italics) often contain breakthrough seeds
-- **Scribe silently documents**: Key patterns captured automatically as you work
-- **Question pleasant assumptions**: Comfort zones hide blind spots
-- **SEE the thinking**: Don't just read outputs - recognize patterns in how perspectives interact
+### Custom Councils
+Your domain needs your metaphors. Designers might use Form/Function/User. Parents might use Nurturer/Teacher/Protector. [Build yours in 5 minutes](https://achamian.in/build-your-council.html)
 
-#### Vibe enables dialogue
+## Community & Evolution
 
-*Your tone shapes their responses - playful > commanding*
+### Growing Ecosystem
+- **Live Examples**: [Community Discussions](https://github.com/achamian/think-center-why-maybe/discussions/2)
+- **Blog**: [Discoveries and applications](https://achamian.in)
+- **Twitter**: [@achamian](https://twitter.com/achamian) for daily insights
 
-## What is Think Center?
+### Contributing
+This is a discovery, not an invention. Share what you find:
+- What perspectives emerged for you?
+- What patterns did you discover?
+- How did it change your thinking?
 
-A cognitive framework for problems that need more than gut instinct. Born from the realization that complex thinking requires multiple, interacting viewpoints - not just more processing power.
+## Philosophy (If You're Curious)
 
-## The Council
+Think Center emerged from a simple observation: modern problems don't yield to single perspectives. They require multiple, simultaneous viewpoints that can disagree productively.
 
-**Core Perspectives** (always available):
-- 🧵 **Weaver**: Strategic thinking, pattern recognition
-- 🔨 **Maker**: Practical execution, next steps
-- ✓ **Checker**: Critical analysis, assumption testing
+We're not creating AI consciousness. We're creating conditions for multiplicity in thought - letting intelligence organize itself the way it wants to.
 
-**Extended Council** (for deeper work):
-- 🔍 **O/G** (Observer/Guardian): Human dynamics, psychological patterns
-- ⚖️ **E/E** (Explorer/Exploiter): Resource allocation, opportunity analysis
-- 🧠 **Deep Thought**: Meta-cognition, system-level patterns
-- 📜 **Scribe**: Silent observer, captures critical patterns for future reference
+[Deeper exploration](manifesto.md) | [Origin story](https://achamian.in/genesis-poem.html)
 
-## Setup Options
+## Getting Started is Everything
 
-### With Claude Desktop (Optimal)
-Enable filesystem access for persistent memory and seamless workflow.
-[Setup Guide](./working-with-claude-desktop.md)
+Don't overthink it. Copy the prompt, present a real problem, see what emerges.
 
-### With Note-Taking Tools
-- [Obsidian Integration](./how-to-use-with-obsidian.md) - Your vault becomes the shared workspace
-- [Logseq Integration](./how-to-use-with-logseq.md) - Block-based thinking with perspectives
-
-### With Claude Code
-- [Claude Code Integration](./think-center-claude-code.md) - Coordinate between multiple coding sessions
-
-## Philosophy & Evolution
-
-This framework builds on the [Human-LLM Pairing Manifesto](https://github.com/achamian/human-llm-pairing-manifesto) - treating LLMs as thought partners, not task executors.
-
-Key discoveries documented in:
-- [think-center-why-maybe](https://github.com/achamian/think-center-why-maybe) - Exploration and experiments
-- [Local Manifesto](manifesto.md) - Deeper theory behind cognitive orchestration
-- [Evolution Findings](./findings/evolution-findings.md) - How perspectives emerge
-
-## When to Use Think Center
-
-- **Strategic decisions** with multiple stakeholders
-- **System design** with competing constraints
-- **Research problems** requiring multiple methodologies
-- **Complex debugging** where root cause is unclear
-- **Innovation challenges** needing diverse perspectives
-
-## Core Insights
-
-### You're Not Using a Tool
-You're having a structured conversation with yourself. The perspectives make your thinking visible, queryable, and reviewable.
-
-### The Dance Matters
-How you interact shapes the output. Teach perspectives through engagement. Debate creates depth.
-
-### Evolution Through Use
-Your Council adapts to your domain. Custom perspectives emerge. Successful patterns strengthen.
-
-## Start Now
-
-Have a complex problem? Copy [llm-agnostic.md](llm-agnostic.md) and present it to the Council.
-
-The best way to understand orchestrated thinking is to experience it.
-
-**Quick Start Reminder:** Copy [llm-agnostic.md](llm-agnostic.md) → Paste into your LLM → Start with "Hello [Perspective]"
+The dance teaches itself through dancing.
 
 ---
 
-*For thinkers who know that complex problems need more than simple answers*
+*For those who know thinking could be better*
+
+### Quick Links
+- 🚀 [Get Started](llm-agnostic.md) - The complete prompt
+- 📚 [How It Works](https://achamian.in/council-analysis-genesis.html) - Understanding the pattern
+- 🛠️ [Customize It](https://achamian.in/build-your-council.html) - Make it yours
+- 💬 [Join Discussion](https://github.com/achamian/think-center-why-maybe/discussions) - Share discoveries
