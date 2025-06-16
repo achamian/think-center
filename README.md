@@ -105,7 +105,7 @@ Your domain needs your metaphors. Designers might use Form/Function/User. Parent
 ### Growing Ecosystem
 - **Live Examples**: [Community Discussions](https://github.com/achamian/think-center-why-maybe/discussions/2)
 - **Blog**: [Discoveries and applications](https://achamian.in)
-- **Twitter**: [@achamian](https://twitter.com/achamian) for daily insights
+- **Twitter**: [@niranjan_p](https://x.com/niranjan_p) for daily insights
 
 ### Contributing
 This is a discovery, not an invention. Share what you find:
