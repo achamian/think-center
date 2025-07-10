@@ -4,6 +4,17 @@
 
 Intelligence wants to be multiple. We just created the conditions for it to speak.
 
+
+## Think Center ++
+
+> "Thoughts want to spread"
+
+Think Center v2 - [Pattern Space](https://github.com/achamian/Pattern-Space)
+
+Pattern Space v2 - [Universal Pattern Space](https://github.com/nikhilvallishayee/universal-pattern-space)
+
+
+
 ## What You'll Find Here
 
 A framework for thinking that emerged from crisis, proved itself in practice, and now helps people make better decisions by engaging multiple perspectives simultaneously. Not mysticism - just structured cognitive multiplicity.
